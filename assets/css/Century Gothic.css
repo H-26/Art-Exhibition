@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Century Gothic';
+	src: url(../../assets/fonts/Century%20Gothic-0502705eff3815b995f71e2355996b5b.woff2) format('woff2'),
+	url(../../assets/fonts/Century%20Gothic-9260396dbb3740b63d75d76d47edfc34.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Century Gothic';
+	src: url(../../assets/fonts/Century%20Gothic-dba1434f2313b9a89213e06d2c9f2f9e.woff2) format('woff2'),
+	url(../../assets/fonts/Century%20Gothic-0999dcdac5b254b6d875dd6ab085b78b.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Century Gothic';
+	src: url(../../assets/fonts/Century%20Gothic-c7562bbc3e7e01c594581434f3779908.woff2) format('woff2'),
+	url(../../assets/fonts/Century%20Gothic-3beae8bdc9fa71bbdae9a8f9cb2847c8.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Century Gothic';
+	src: url(../../assets/fonts/Century%20Gothic-f1794072a8f63e6b9ca446166524845a.woff2) format('woff2'),
+	url(../../assets/fonts/Century%20Gothic-85c906886c8d8003747c885af076c619.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
